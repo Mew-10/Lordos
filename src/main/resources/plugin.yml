@@ -1,0 +1,11 @@
+name: Lordos
+version: '1.0'
+main: net.benjamin.lordos.Lordos
+api-version: 1.18
+authors: [ Tert ]
+description: Cool Plugin
+commands:
+  leapingspider:
+  leapingspiderspawnegg:
+  giveteleportsword:
+  givethrowingaxe:
